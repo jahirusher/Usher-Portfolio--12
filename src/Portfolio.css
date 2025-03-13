@@ -1,0 +1,43 @@
+/* Resume Section */
+section {
+    padding: 20px;
+    
+  }
+  
+  /* Resume Heading */
+  h2 {
+    color: #726E75;
+    font-size: 2rem;
+    margin-bottom: 15px;
+  }
+  
+  /* Make Resume Link Bigger */
+  a {
+    font-size: 1.5rem; /* Increase text size */
+    color: #726E75; /* Deep gray-purple */
+    font-weight: bold;
+    text-decoration: none; /* Remove default underline */
+    transition: text-decoration 0.3s ease, color 0.3s ease;
+  }
+  
+  /* Underline on hover */
+  a:hover {
+    text-decoration: underline;
+    color: #B6A39E; /* Soft mauve */
+  }
+  
+  /* Skills Section */
+  h3 {
+    color: white;
+    font-size: 1.8rem; /* Make skills heading larger */
+    margin-top: 20px;
+  }
+  
+  /* Skills List */
+  
+  li {
+    font-size: 25px; /* Increase skill text size */
+    color: white;
+    margin: 5px 0;
+  }
+  
